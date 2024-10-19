@@ -1,3 +1,5 @@
+[![Math Utility Project (CI) | © 2024 by Thành.Đô](https://github.com/Glannt/math-util-usage/actions/workflows/ci-script-with-junit.yml/badge.svg)](https://github.com/Glannt/math-util-usage/actions/workflows/ci-script-with-junit.yml)
+
 # Math Utility (Maven project)
 
 ## Welcome to Math Utility
